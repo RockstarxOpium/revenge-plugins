@@ -1,0 +1,10 @@
+{
+  "scripts": {
+    "build": "bun run scripts/build.ts"
+  },
+  "private": true,
+  "devDependencies": {
+    "@biomejs/biome": "^1.9.4"
+  },
+  "trustedDependencies": ["@biomejs/biome"]
+}
