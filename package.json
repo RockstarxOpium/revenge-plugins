@@ -1,8 +1,17 @@
 {
-	"devDependencies": {
-		"@saithodev/semantic-release-backmerge": "^4.0.1",
-		"@semantic-release/git": "^10.0.1",
-		"gradle-semantic-release-plugin": "^1.10.1",
-		"semantic-release": "^24.1.2"
-	}
+  "name": "messagelogger",
+  "version": "1.0.0",
+  "type": "module",
+  "scripts": {
+    "build": "revenge-bundler"
+  },
+  "devDependencies": {
+    "@revenge-mod/bundler": "latest",
+    "@revenge-mod/plugin": "latest",
+    "@revenge-mod/discord": "latest",
+    "@saithodev/semantic-release-backmerge": "^4.0.1",
+    "@semantic-release/git": "^10.0.1",
+    "gradle-semantic-release-plugin": "^1.10.1",
+    "semantic-release": "^24.1.2"
+  }
 }
