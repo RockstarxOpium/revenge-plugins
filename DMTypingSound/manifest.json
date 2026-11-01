@@ -1,0 +1,8 @@
+{
+    "name": "DM Typing Sound",
+    "description": "Plays a sound (or vibrates) when someone starts typing to you in DMs.",
+    "authors": [{ "name": "you", "id": "0" }],
+    "main": "index.js",
+    "hash": "e92933ae071aef02",
+    "vendetta": { "icon": "ic_message_edit" }
+}
